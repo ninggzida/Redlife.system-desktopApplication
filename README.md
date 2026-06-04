@@ -1,4 +1,4 @@
-# RedLife
+# RedLife.system - desktopAppliction
 
 ## Sobre o Projeto
 
