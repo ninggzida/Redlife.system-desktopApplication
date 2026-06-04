@@ -18,7 +18,7 @@ namespace Redlife.system_desktopApplication
 
         private static string DbPath = Path.Combine(Application.StartupPath, "ClientUsersDataBase");
 
-        // 🔗 String de conexão
+       
         private static string ConnectionString = $"Data Source={DbPath};Version=3;";
     }
     public partial class CadastroDeDoadores : Form
