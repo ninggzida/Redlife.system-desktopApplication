@@ -61,7 +61,7 @@ namespace Redlife.system_desktopApplication
 
         }
 
-        //Searchtextbox1 eventos
+       
         private void Searchtextbox1_TextChanged(object sender, EventArgs e)
         {
             Searchtextbox1.BackColor = Color.White;
@@ -88,7 +88,7 @@ namespace Redlife.system_desktopApplication
                 return;
             }
 
-            // 🔍 MODO PESQUISA
+           
             if (Searchtextbox1.Text == "")
             {
                 Searchtextbox1.BackColor = Color.LightYellow;
@@ -98,11 +98,7 @@ namespace Redlife.system_desktopApplication
             AppState.Valorpesquisa1 = Searchtextbox1.Text;
             AppState.PesquisarDB = true;
             this.Close();
-            // if (ConfirmadoCancelCREateUser == true) {
-
-            //   this.Close();
-
-            // }
+            
 
 
         }
