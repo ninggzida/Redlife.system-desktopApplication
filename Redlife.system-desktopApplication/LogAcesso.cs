@@ -22,10 +22,10 @@ namespace Redlife.system_desktopApplication
     {
         private static string DbPath = Path.Combine(Application.StartupPath, "DataHoraDataBase.db");
 
-        // 🔗 String de conexão
+        
         private static string ConnectionString = $"Data Source={DbPath};Version=3;";
 
-        // 🚀 Método principal
+       
         public static void Registrar(string usuario, string acao)
         {
             try
@@ -34,10 +34,10 @@ namespace Redlife.system_desktopApplication
                 {
                     conn.Open();
 
-                    // 🔥 Garante que a tabela existe
+                   
                     CriarTabelaSeNaoExistir(conn);
 
-                    // 🔥 Insert
+                   
                     string query = @"INSERT INTO HoraAcesso (usuario, dataHora, acao)
                                      VALUES (@usuario, @dataHora, @acao)";
 
@@ -57,7 +57,7 @@ namespace Redlife.system_desktopApplication
             }
         }
 
-        // 🛠️ Cria tabela automaticamente se não existir
+        
         private static void CriarTabelaSeNaoExistir(SQLiteConnection conn)
         {
             string sql = @"
