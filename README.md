@@ -39,6 +39,6 @@ Durante o desenvolvimento deste projeto, pude aprimorar conhecimentos relacionad
 
 ## Considerações Finais
 
-é um projeto que fiz para aprender mais sobre a linguagem c# e para treinar minha lógica de programação, se encontra em desenvolvimento por essa razão o programa está incompleto, é inspirado no projeto integrador do meu grupo da faculdade, seria uma versão desktop pois o original que estamos desenvolvendo é web.
+é um projeto que fiz para aprender mais sobre a linguagem c# e para treinar minha lógica de programação, se encontra em desenvolvimento por essa razão o programa está incompleto, seria uma versão desktop pois o original que estamos desenvolvendo é web.
 
 Meu objetivo é continuar estudando, desenvolvendo novos projetos e adquirindo experiência para me tornar um profissional cada vez mais qualificado na área de tecnologia.
