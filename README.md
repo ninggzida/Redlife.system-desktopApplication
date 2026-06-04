@@ -39,6 +39,7 @@ Durante o desenvolvimento deste projeto, pude aprimorar conhecimentos relacionad
 
 ## Considerações Finais
 
-O RedLife representa uma etapa importante da minha jornada de aprendizado em desenvolvimento de software. Embora eu ainda esteja em constante evolução profissional, este projeto demonstra meu interesse em aprender novas tecnologias, enfrentar desafios e construir soluções práticas.
+é um projeto que fiz para aprender mais sobre a linguagem c# e para treinar minh lógica de programação , esta em desenvolvimento ainda por isso o programa ainda falta muita coisa a
+ser incrementada nesse projeto, e é um projeto que veio do meu grupo da faculdade, seria uma versão desktop já a que estamos desenvolvendo é web.
 
 Meu objetivo é continuar estudando, desenvolvendo novos projetos e adquirindo experiência para me tornar um profissional cada vez mais qualificado na área de tecnologia.
